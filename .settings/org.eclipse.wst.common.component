@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="vraptor-3-circularreferenceexception">
+        <wb-resource deploy-path="/" source-path="/WebContent"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="vraptor-3-circularreferenceexception"/>
+        <property name="java-output-path" value="/vraptor-3-circularreferenceexception/build/classes"/>
+    </wb-module>
+</project-modules>
